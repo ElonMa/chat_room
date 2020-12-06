@@ -1,0 +1,3 @@
+# Project exclude paths
+/chat_room_client/target/
+/chat_room_server/target/
